@@ -42,6 +42,7 @@ qt6-5compat qt6-declarative qt6-svg sddm
 ### Credits
 
 Based on the theme [`Sugar Dark for SDDM`](https://github.com/MarianArlt/sddm-sugar-dark) by **MarianArlt**.
+
 Forked from **Keyitdev**'s [`sddm-astronaut-theme`](https://github.com/Keyitdev/sddm-astronaut-theme)
 
 ### License
